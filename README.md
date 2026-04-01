@@ -48,10 +48,7 @@ Sales-Performance-Dashboard/
 └── README.md
 ---
 
-## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
 
----
 
 ## 🎯 Conclusion
 This dashboard helps in understanding business performance, identifying key growth areas, and supporting data-driven decision-making.
